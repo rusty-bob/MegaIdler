@@ -1,0 +1,23 @@
+# bot mode. Crafting or Leveling
+active_mode = "Crafting"
+
+# idle mmo login details
+[authentication.game]
+email = "email@gmail.com"
+password = "yourpasswordhere"
+
+# megaidler license details
+[authentication.license]
+key = "3d2ca89d-ad25-4580-a008-c80a845cd485"
+salt = "gOfZSPhrVtrHnTPug6MlRhfoG6GsWD2B"      # a random string. define it once, but do not change it afterwards!
+
+# crafting mode configuration
+[bot_modes.crafting]
+skill_id = 10                  # Skill Id. Check Skills.md
+batch_amount = 100             # Amount of items to craft in one turn (if possible). Not valid for infinite crafts (Ores, Logs)
+use_crystal = false            # Not reconsidered by the bot right now.
+
+# leveling mode configuration
+[bot_modes.leveling]
+skill_type = "smelting"      # Skill type. Check Skills.md
+batch_size = 100             # Amount of items to craft in one turn (if possible). Not valid for infinite crafts (Ores, Logs
