@@ -21,7 +21,7 @@ crafting env vars:
 ```
 SKILL_ID: 10
 BATCH_AMOUNT: 100
-USE_CRYSTAL
+USE_CRYSTAL: FALSE
 ```
 
 sample leveling config
