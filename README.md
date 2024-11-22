@@ -20,7 +20,7 @@ Continuously levels up selected skills (e.g., woodcutting, forging). The bot aut
 
 ## Configuration
 As of now, the bot does not provide a user-interface, thus all configurations must be done by specifying them in a `game.toml` file or as environment variables.  
-You can find a general configuration introduction in the `config.md` section and mode-specific details in the `modes` area.
+You can find a general configuration introduction in the [Config](./config) section and mode-specific details in the respectived `.md` files.
 
 
 ### Trial / License  
