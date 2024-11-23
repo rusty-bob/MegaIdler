@@ -1,7 +1,7 @@
 <p align="center">
     <img src="logo.png">
     <h3 align="center"> MegaIdler </h1>
-    <p align="center"> <i>the most advanced bot for the  <a href="https://www.idle-mmo.com/">IdleMMO</a> browsergame that provides a fully automated gameplay experience. </i></p>
+    <p align="center"> <i>the most advanced bot for the  <a href="https://www.idle-mmo.com/">IdleMMO</a> browsergame providing a fully automated gameplay experience. </i></p>
     <hr />
 </p>
 
