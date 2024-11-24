@@ -6,7 +6,7 @@ You can find the **most basic** configuration below, but still need to configure
 
 Example file
 ```toml
-# bot mode. Either 'Crafting' or 'Leveling'
+# bot mode. Either 'Crafting', 'Leveling' or 'Battling'
 active_mode = "Crafting"
 
 # idle mmo login details
