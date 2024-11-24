@@ -19,7 +19,7 @@ The bot repeatedly crafts specified items (e.g., Tin Bar). It automatically dete
 Continuously levels up selected skills (e.g., woodcutting, forging). The bot autonomously gathers required materials. For example, when leveling cooking, it will automatically fish and mine coal ore when supplies run low. For fishing activities, it purchases necessary bait independently.  
 
 **Battling**:
-Battles Enemies at a given location. The bot ensures that the character always carries enough Food to the fights and will starting crafting if necessary.  
+Battles Enemies at a given location. The bot ensures that the character always carries enough Food to the fights and will start crafting if necessary.  
 
 ## Configuration
 As of now, the bot does not provide a user-interface, thus all configurations must be done by specifying them in a `game.toml` file or as environment variables.  
