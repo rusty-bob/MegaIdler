@@ -6,11 +6,11 @@ The location where the bot should battle enemies. You can find a list of all ava
 
 **stance**:  
 battle stance. can be one of: 
-- "BALANCED"
-- "OFFENSIVE"
-- "DEFENSIVE"
-- "AGILE"
-- "DEXTEROUS"
+- "Balanced"
+- "Offensive"
+- "Defensive"
+- "Agile"
+- "Dexterous"
 
 **food_id**:  
 The type of food that should be brought to battle.  
@@ -39,7 +39,7 @@ food_amount_craft = 500          # If the inventory amount of "Cooked Cod" falls
 example environment variables addition:
 ```env
 LOCATION_ID="1"
-STANCE="BALANCED"
+STANCE="Balanced"
 FOOD_ID="61"
 FOOD_AMOUNT_CARRY="100"
 FOOD_AMOUNT_CRAFT="500"
