@@ -30,7 +30,7 @@ example `game.toml` addition:
 # battling mode configuration
 [bot_modes.battling]
 location_id = 1                  # Battle enemies at Bluebell Hollow
-stance = "BALANCED"              # Balanced battle stance
+stance = "Balanced"              # Balanced battle stance
 food_id = 61                     # Bring Cooked Cod to the battle
 food_amount_carry = 100          # Begin a battle if the bot has at least 100 Cooked Cod in his inventory
 food_amount_craft = 500          # If the inventory amount of "Cooked Cod" falls below 100, the bot will craft up to 500 of it. 
