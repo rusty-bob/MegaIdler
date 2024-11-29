@@ -24,6 +24,10 @@ Battles Enemies at a given location. The bot ensures that the character always c
 ## Configuration
 In order to run, the bot requires a valid `auth.toml` (that contains your IdleMMO and MegaIdler authentications) as well as a `game.toml`.  
 Use the `configurator.exe` to generate a valid bot config. 
+<p align="center">
+    <img src="configurator.png">
+</p>
+
 
 ### Trial / License  
 The bot is currently free to use while it's in the testing phase.  
