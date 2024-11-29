@@ -22,11 +22,8 @@ Continuously levels up selected skills (e.g., woodcutting, forging). The bot aut
 Battles Enemies at a given location. The bot ensures that the character always carries enough Food to the fights and will start crafting if necessary.  
 
 ## Configuration
-As of now, the bot does not provide a user-interface, thus all configurations must be done by specifying them in a `game.toml` file or as environment variables.  
-You can find a general configuration introduction in the [Config](./config) section and mode-specific details in the respectived `.md` files.  
-
-You find a fully working `game.toml` file in the [example folder](./example).
-
+In order to run, the bot requires a valid `auth.toml` (that contains your IdleMMO and MegaIdler authentications) as well as a `game.toml`.  
+Use the `configurator.exe` to generate a valid bot config. 
 
 ### Trial / License  
 The bot is currently free to use while it's in the testing phase.  
