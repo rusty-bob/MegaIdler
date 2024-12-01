@@ -33,7 +33,7 @@ The bot requires 2 configuration files:
 
 ### Trial / License  
 The bot is currently free to use while it's in the testing phase.  
-Keys can be requested through Discord (tobyyy1858)
+Keys can be requested through [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A2JTatCPGB)
 
 
 ### Download & Installation
