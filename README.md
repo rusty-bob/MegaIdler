@@ -8,7 +8,8 @@
 
 
 >*Megaidler is currently in a limited, **free** public testing phase.*  
->You can request a key by messaging **tobyyy1858** on discord.
+>You can request a key in our public [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A2JTatCPGB) server.  
+>Follow the detailed steps to receive the `Trial` role.
 
 
 ## Modes
