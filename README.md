@@ -22,6 +22,9 @@ Continuously levels up selected skills (e.g., woodcutting, forging). The bot aut
 **Battling**:  
 Battles Enemies at a given location. The bot ensures that the character always carries enough Food to the fights and will start crafting if necessary.  
 
+**Dungeon**:  
+Indefinetely joins a given Expedition. The bot travels to the desired target location if the character is not there yet.  
+
 ## Configuration
 The bot requires 2 configuration files:  
 - `auth.toml`; authentication details for IdleMMO and MegaIdler. Edit the example file that comes with downloading the bot.
